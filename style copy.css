@@ -3,8 +3,8 @@ body {
   font-family: "Arial", sans-serif;
   font-size: 14px;
   line-height: 18px;
-  color: #000000;
-  background: #ffffff url("img/mama_yaht.JPG") no-repeat 50% 0;
+  color: #1da1df;
+  background: #ffffff url("img/keks-background.jpg") no-repeat 50% 0;
 }
 
 h1 {
@@ -12,16 +12,12 @@ h1 {
   font-family: "Georgia", serif;
   font-size: 36px;
   line-height: 36px;
-  color: rgb(255, 0, 0);
+  color: rgb(0, 255, 255);
 }
 
 h2 {
   padding-bottom: 12px;
-  border-bottom: 1px solid #ff0000;
-}
-
-.h2red {
-  color: rgb(255, 0, 0);
+  border-bottom: 1px solid #cccccc;
 }
 
 .site-header {
@@ -43,13 +39,14 @@ h2 {
 /* Добавьте правило ниже */
 
 .vip {
-  border-color: #ff266e;
+  border-color: #ff5a26;
   color: #000000;
 }
 
 .container {
   width: 480px;
   margin: 0 auto;
+  text-decoration: 
 }
 
 .site-header img {
